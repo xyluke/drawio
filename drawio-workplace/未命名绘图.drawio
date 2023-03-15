@@ -1,1 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2023-03-15T01:40:28.990Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" version="21.0.6" etag="FfMdfV2fGouJg14WTUgV" type="github"><diagram name="第 1 页" id="MeqO_cxCaKRevJ5hazL_">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-03-15T01:59:43.673Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="-bcowclGTer0rg7rwJ0V" version="21.0.6" type="github">
+  <diagram name="第 1 页" id="MeqO_cxCaKRevJ5hazL_">
+    <mxGraphModel dx="1195" dy="663" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ENyJDwP865k_RAcH5P9l-3" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Micro修改销售退货&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="243" y="45" width="196" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ENyJDwP865k_RAcH5P9l-4" value="&lt;div style=&quot;line-height: 190%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;参考：销售发货&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=center;arcSize=8;" vertex="1" parent="1">
+          <mxGeometry x="90" y="162" width="117" height="36" as="geometry" />
+        </mxCell>
+        <mxCell id="ENyJDwP865k_RAcH5P9l-10" value="1. 组件库具备销售发货单搜索框&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;2. 后端具备动态数据&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;3. 修改按钮--&amp;gt; 打开弹窗&lt;/div&gt;&lt;div style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;4. 调取接口&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="63" y="234" width="198" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="ENyJDwP865k_RAcH5P9l-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="387" y="162" width="216" height="216" as="geometry" />
+        </mxCell>
+        <mxCell id="ENyJDwP865k_RAcH5P9l-19" value="&lt;h1 style=&quot;font-size: 16px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;前期准备&lt;/font&gt;&lt;/span&gt;&lt;/h1&gt;&lt;div style=&quot;text-align: left; font-size: 16px;&quot;&gt;&lt;span style=&quot;font-weight: 400;&quot;&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;组件库有销售发货的组件，且组件能够使用&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;align=center;" vertex="1" parent="1">
+          <mxGeometry x="405" y="171" width="180" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
